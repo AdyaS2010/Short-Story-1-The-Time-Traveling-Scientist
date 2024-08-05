@@ -1,8 +1,8 @@
-# The Temporal Paradox
+# Temporal Paradox (The Time-Traveling Scientist)
 
 ## Overview
 
-**The Temporal Paradox** is a short story about Dr. Evelyn Carter, a renowned neuroscientist who accidentally discovers a way to travel through time. As she navigates the complexities of time travel, she encounters unexpected consequences, a mysterious rogue scientist, and the challenge of preserving the integrity of the timeline.
+**The Temporal Paradox** is a short story, part of the expanding *'Time-Traveling Scientist'* series about Dr. Evelyn Carter, a renowned neuroscientist who accidentally discovers a way to travel through time. As she navigates the complexities of time travel, she encounters unexpected consequences, a mysterious rogue scientist, and the challenge of preserving the integrity of the timeline.
 
 ## Table of Contents
 
@@ -30,6 +30,7 @@ Dr. Evelyn Carter, a brilliant neuroscientist, accidentally discovers a way to t
 
 ## Chapters
 
+0. **Prologue**
 1. **The Accidental Discovery**
 2. **The First Consequence**
 3. **The Dilemma**
